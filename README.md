@@ -23,26 +23,33 @@ Game có 3 độ khó, người chơi có thể chọn 1 trong 3 và trải nghi
 Người chơi có 3 lần để check đáp án của mình, nếu sai cả 3 lần thì sẽ thua
 
 III, Các chức năng của trò chơi
-Chọn ô, sử dụng bàn phím để điền số
-Menu đơn giản, có 3 chế độ chơi, 1 nút check, và restart khi đã hoàn thành game và muốn luyện tập lại
-IV, Các kỹ thuật lập trình được sử dụng
-Sử dụng thư viện đồ họa SDL
-Lập trình hướng đối tượng(OOP)
-Lập trình đa luồng(Multithread)
-Design Pattern: SDL TTF, SDL image.
-Con trỏ, cấp phát động
-Chuẩn hóa vector
-Sử dụng các thuật toán cơ bản như thuật toán xử lý va chạm, animation,....
-Hệ thống tile-map nhiều lớp xếp chồng lên nhau và có những chức năng riêng (collision, monster, map)
-V, Hỗ trợ
-Sử dụng Photoshop để edit ảnh
-Sử dụng Tiled để làm map
 
+Chọn ô, sử dụng bàn phím để điền số
+
+Menu đơn giản, có 3 chế độ chơi, 1 nút check, và restart khi đã hoàn thành game và muốn luyện tập lại
+
+IV, Các kỹ thuật lập trình được sử dụng
+
+Sử dụng thư viện đồ họa SDL
+
+Lập trình hướng đối tượng(OOP)
+
+Lập trình đa luồng(Multithread)
+
+Design Pattern: SDL TTF, SDL image.
+
+Con trỏ, cấp phát động
+
+V, Hỗ trợ
+
+Sử dụng google để tìm ảnh và font chữ
 
 VI, Kết luận
+
 Do là game đầu tay nên còn nhiều thiếu sót, game cần được cải tiến và fix vài lỗi nhỏ
 
 VII, Tham khảo
+
 https://lazyfoo.net/tutorials/SDL/
 
 1 số video trên youtube
