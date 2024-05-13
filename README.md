@@ -1,4 +1,5 @@
-Bastard
+Sudoku
+
 Mục lục
 1. Hướng dẫn cài đặt và chạy game
 2. Mô tả chung về trò chơi
@@ -7,6 +8,7 @@ Mục lục
 5. Hỗ trợ
 6. Kết luận
 7. Tham Khảo
+
 I, Hướng dẫn cài đặt và chạy game
 B1: Tải project về
 Cách 1: Trên Github, chọn Code => Download ZIP
@@ -35,5 +37,12 @@ Hệ thống tile-map nhiều lớp xếp chồng lên nhau và có những ch�
 V, Hỗ trợ
 Sử dụng Photoshop để edit ảnh
 Sử dụng Tiled để làm map
+
+
 VI, Kết luận
 Do là game đầu tay nên còn nhiều thiếu sót, game cần được cải tiến và fix vài lỗi nhỏ
+
+VII, Tham khảo
+https://lazyfoo.net/tutorials/SDL/
+
+1 số video trên youtube
