@@ -9,17 +9,25 @@ Mục lục
 6. Kết luận
 7. Tham Khảo
 
-I, Hướng dẫn cài đặt và chạy game
+I, Hướng dẫn cài đặt và chạy game 
+
 B1: Tải project về
+
 Cách 1: Trên Github, chọn Code => Download ZIP
+
 Cách 2: Mở terminal tại thư mục muốn lưu project, sử dụng lệnh git init để khởi tạo Git, sau đó dùng lệnh git clone (https://github.com/chiendz11/chiendz11.git) để clone project về máy
+
 
 B2: Chạy game
 Tìm file main.exe và chạy file.
 
+
 II, Mô tả chung về trò chơi
+
 Thể loại: Giải đố
+
 Game có 3 độ khó, người chơi có thể chọn 1 trong 3 và trải nghiệm
+
 Người chơi có 3 lần để check đáp án của mình, nếu sai cả 3 lần thì sẽ thua
 
 III, Các chức năng của trò chơi
