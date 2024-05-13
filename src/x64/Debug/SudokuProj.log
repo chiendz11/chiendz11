@@ -1,6 +1,0 @@
-﻿  main.cpp
-  Sudoku.cpp
-C:\Users\Admin\source\repos\SudokuProj\SudokuProj\src\Sudoku.cpp(106,29): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
-  SudokuSolver.cpp
-  Generating Code...
-  SudokuProj.vcxproj -> C:\Users\Admin\source\repos\SudokuProj\x64\Debug\SudokuProj.exe
