@@ -1,0 +1,18 @@
+﻿  Button.cpp
+  main.cpp
+C:\Users\Admin\source\repos\src\SudokuProj\SudokuProj\src\Button.h(3,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  (compiling source file 'src/Button.cpp')
+  
+C:\Users\Admin\source\repos\src\SudokuProj\SudokuProj\src\Sudoku.h(2,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  (compiling source file 'src/main.cpp')
+  
+  Sudoku.cpp
+C:\Users\Admin\source\repos\src\SudokuProj\SudokuProj\src\Sudoku.h(2,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  (compiling source file 'src/Sudoku.cpp')
+  
+  SudokuBlank.cpp
+C:\Users\Admin\source\repos\src\SudokuProj\SudokuProj\src\SudokuBlank.h(2,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  (compiling source file 'src/SudokuBlank.cpp')
+  
+  RunSudoku.cpp
+  SovleSudoku.cpp
